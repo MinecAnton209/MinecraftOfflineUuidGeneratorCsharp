@@ -5,6 +5,18 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        
+        <PackageId>MinecraftOfflineUuidGenerator</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>MinecAnton209</Authors>
+        <Title>Minecraft Offline UUID Generator</Title>
+        <Description>A library for generating offline UUIDs of Minecraft players based on their nicknames.</Description>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/MinecAnton209/MinecraftOfflineUuidGeneratorCsharp</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/MinecAnton209/MinecraftOfflineUuidGeneratorCsharp</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>minecraft;uuid;offline;generator</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
